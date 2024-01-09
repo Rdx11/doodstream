@@ -94,14 +94,6 @@ npm run start
 
 More information about deploying Next.js apps on Cloudflare Pages is available [here](https://developers.cloudflare.com/pages/framework-guides/deploy-a-nextjs-site/#deploy-via-the-cloudflare-dashboard).
 
-## Contributing
+## Last But not Least
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Disclaimer
-
-This project is not affiliated with https://doodstream.com in any way. It is just a frontend for their API.
-
-## License
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details.
+Senku So Much Besto Friendto
